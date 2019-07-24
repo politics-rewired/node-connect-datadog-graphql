@@ -21,6 +21,7 @@
 		"node": ">=8"
 	},
 	"dependencies": {
+		"graphql": "^14.4.2",
 		"hot-shots": "^6.3.0"
 	},
 	"devDependencies": {
