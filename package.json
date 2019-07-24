@@ -1,20 +1,21 @@
 {
-	"name": "connect-datadog",
+	"name": "connect-datadog-graphql",
 	"version": "0.0.9",
-	"description": "Datadog middleware for Connect JS / Express",
+	"description": "Datadog middleware for Connect JS / Express, extended for GraphQL",
 	"main": "index.js",
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/DataDog/node-connect-datadog.git"
+		"url": "git@github.com:politics-rewired/node-connect-datadog-graphql.git"
 	},
 	"scripts": {
 		"test": "jest"
 	},
 	"keywords": [
 		"datadog",
-		"middleware"
+		"middleware",
+		"graphql"
 	],
-	"author": "Datadog",
+	"author": "ben-pr-p",
 	"license": "MIT",
 	"readmeFilename": "README.md",
 	"engines": {
