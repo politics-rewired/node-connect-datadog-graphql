@@ -23,6 +23,8 @@ All options are optional.
 * `protocol` *boolean* include protocol tag. `default = false`
 * `response_code` *boolean* include http response codes. `default = false`
 * `delim` *string* char to replace pipe char with in the route `default = '-'`
+* `graphql_paths` *array* or path strings where we should check for graphql requests
+* `extra_attributes` *array* arbitrary extra tags to include
 
 ## License
 
