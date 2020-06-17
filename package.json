@@ -22,8 +22,10 @@
 		"node": ">=8"
 	},
 	"dependencies": {
-		"graphql": "^14.4.2",
-		"hot-shots": "^6.3.0"
+		"graphql": "^15.1.0"
+	},
+	"peerDependencies": {
+		"hot-shots": ">= 6.0.0"
 	},
 	"devDependencies": {
 		"jest": "^24.8.0"
