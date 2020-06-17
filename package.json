@@ -28,6 +28,7 @@
 		"hot-shots": ">= 6.0.0"
 	},
 	"devDependencies": {
+		"hot-shots": "^7.6.0",
 		"jest": "^24.8.0"
 	}
 }
