@@ -1,6 +1,6 @@
 {
 	"name": "connect-datadog-graphql",
-	"version": "0.0.11",
+	"version": "0.0.12",
 	"description": "Datadog middleware for Connect JS / Express, extended for GraphQL",
 	"main": "index.js",
 	"repository": {
