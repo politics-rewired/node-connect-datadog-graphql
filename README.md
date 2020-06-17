@@ -7,8 +7,10 @@ Datadog middleware for Connect JS / Express with support for GraphQL operations.
 
 Add middleware immediately before your router.
 
-	app.use(require("connect-datadog-graphql")({}));
-	app.use(app.router);
+```js
+app.use(require("connect-datadog-graphql")({}));
+app.use(app.router);
+```
 
 ## Options
 
